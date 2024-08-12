@@ -1,4 +1,4 @@
-# Create Inner Join to find the top 5 paying customers from the top cities.
+# Query to find the top 5 customers from the top 10 cities who’ve paid the highest total amounts to Rockbuster.
 SELECT
       a.customer_id, 
       a.first_name,
